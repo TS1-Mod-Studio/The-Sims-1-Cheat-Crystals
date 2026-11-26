@@ -1,6 +1,8 @@
 # The Sims 1 – Cheat Crystals
 
-**English** | [🇵🇱 Polski](README.pl.md)
+**English** | [Polski](README.pl.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Italiano](README.it.md) | [Português (Brasil)](README.pt-BR.md)  
+[Nederlands](README.nl.md) | [Dansk](README.da.md) | [Svenska](README.sv.md) | [Norsk (bokmål)](README.nb.md) | [Suomi](README.fi.md)  
+[日本語](README.ja.md) | [한국어](README.ko.md) | [ไทย](README.th.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-23734f)
 ![Game](https://img.shields.io/badge/game-The%20Sims%20Legacy%20Collection-23734f)
